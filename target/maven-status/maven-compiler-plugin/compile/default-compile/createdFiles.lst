@@ -1,0 +1,11 @@
+pl/wsb/clients_warehouse/ClientsImpl.class
+pl/wsb/clients_warehouse/ProhibitedMetalTypeException.class
+pl/wsb/clients_warehouse/Warehouse.class
+pl/wsb/clients_warehouse/Client.class
+pl/wsb/clients_warehouse/ClientWarehouseState.class
+pl/wsb/clients_warehouse/Clients.class
+pl/wsb/clients_warehouse/Main.class
+pl/wsb/clients_warehouse/ClientNotFoundException.class
+pl/wsb/clients_warehouse/SupportedMetalType.class
+pl/wsb/clients_warehouse/FullWarehouseException.class
+pl/wsb/clients_warehouse/WarehouseImpl.class
